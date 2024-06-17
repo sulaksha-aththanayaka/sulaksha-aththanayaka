@@ -1,20 +1,17 @@
 <p align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px></p>
 <h1 align="center">Hello! Welcome to my Github Account</h1>
-<h3 align="center">A freelancer full-stack developer and B.Sc.(Hons) Engineering (UG) at Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
+<h3 align="center">A full-stack developer and B.Sc.(Hons) Engineering (UG) at Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=vishnaka-dasanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="vishnaka-dasanayaka" /> </p>
 <a target="_blank" align="center">
   <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
 
-- 🔭 I’m currently working on [Eye Planet, Sales tracking app for an optical shop](https://eyeplanet.lk)
-- 🔭 I’m currently working on [Simzilla](https://www.simzilla.com/) as a Front-end dev
-
 - 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **MERN stack**
 
-- 📫 How to reach me **vishnakadasanayaka@gmail.com**
+- 📫 How to reach me **sulakshaa04@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -29,7 +26,7 @@
 
 
   ## My statistics 🚀
-  ![Vishnaka's github stats](https://github-readme-stats.vercel.app/api?username=vishnaka-dasanayaka&show_icons=true&theme=tokyonight)
+  ![Sulaksha's github stats](https://github-readme-stats.vercel.app/api?username=vishnaka-dasanayaka&show_icons=true&theme=tokyonight)
   <img  src="https://github-readme-streak-stats.herokuapp.com/?user=vishnaka-dasanayaka&theme=tokyonight" alt="mystreak"/>
 
-<div align="center">Happy Hacking !</p>
+<div align="center">Happy Coding !</p>
