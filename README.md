@@ -1,13 +1,11 @@
 <p align="center"><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 100px></p>
 <h1 align="center">Hello! Welcome to my Github Account</h1>
-<h3 align="center">A full-stack developer and B.Sc.(Hons) Engineering (UG) at Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
+<h3 align="center">A full-stack developer and B.Sc.(Hons) Engineering Graduate at Faculty of Engineering, University of Ruhuna, Sri Lanka</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sulaksha-aththanayaka&label=Profile%20views&color=0e75b6&style=flat" alt="sulaksha-aththanayaka" /> </p>
 <a target="_blank" align="center">
   <img align="right" top="500" height="200" width="300" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
 </a>
-
-- 🌱 I’m currently learning **Spring Boot**
 
 - 💬 Ask me about **MERN stack**
 
